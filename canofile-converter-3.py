@@ -60,10 +60,10 @@ def verificar_tesseract():
 def exibir_boas_vindas():
     print(f"{Cores.CIANO}╔══════════════════════════════════════════════════════╗")
     print(f"║{Cores.NEGRITO}          CANOFILE → PDF CONVERTER            {Cores.RESET}{Cores.CIANO}║")
-    print(f"║          Tribunal de Justiça — Setor de RH           ║")
+    print(f"║          Instituição demanda — Setor de RH           ║")
     print(f"╠══════════════════════════════════════════════════════╣")
     print(f"║  Converte dossiês do sistema Canofile para PDF       ║")
-    print(f"║  organizados por nome de servidor.                   ║")
+    print(f"║  organizados por nome.                               ║")
     print(f"╠══════════════════════════════════════════════════════╣")
     print(f"║  Como usar:                                          ║")
     print(f"║  1. Informe a pasta de ORIGEM (ex: D:\\CF_SURF)       ║")
